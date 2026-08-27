@@ -21,3 +21,10 @@
     font-weight: 100 600 800;
     src: url("/fonts/JetBrainsMono/JetBrainsMono[wght].ttf") format("truetype");
 }
+
+@font-face {
+    font-family: "SpaceMono";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/fonts/SpaceMono/SpaceMono-Regular.ttf") format("truetype");
+}
