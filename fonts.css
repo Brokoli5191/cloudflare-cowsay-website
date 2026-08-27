@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Anybody";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900 700 200 100;
+  font-stretch: 150% 100% 50%;
+  src: url("/fonts/Anybody/Anybody-VariableFont_wdth\,wght.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Unbounded";
+  font-display: swap;
+  font-style: normal;
+  font-weight: 900 700 500 300 100;
+  src: url("/fonts/Unbounded/Unbounded-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "JetBrains";
+    font-style: normal;
+    font-weight: 100 600 800;
+    src: url("/fonts/JetBrainsMono/JetBrainsMono[wght].ttf") format("truetype");
+}
