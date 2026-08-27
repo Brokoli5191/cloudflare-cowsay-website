@@ -3,8 +3,8 @@ body{margin: 0;
 
   background: linear-gradient(
     to bottom,
-    rgb(88, 89, 90) 0%,
-    rgb(88, 89, 90) 90%,
+    aliceblue 0%,
+    aliceblue 90%,
     black 100%
   );
 
