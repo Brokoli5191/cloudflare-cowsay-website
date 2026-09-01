@@ -52,3 +52,36 @@ li {display: inline-block;}
     gap: 20px;
   }
 }
+.privacy-notice {
+  margin: 2rem auto;
+  max-width: 42rem;
+}
+
+.privacy-notice summary {
+  display: inline-block;
+  cursor: pointer;
+  padding: 0.55rem 0.9rem;
+  border: 1px solid currentColor;
+  border-radius: 0.35rem;
+  list-style: none;
+}
+
+.privacy-notice summary::-webkit-details-marker {
+  display: none;
+}
+
+.privacy-notice summary:hover {
+  opacity: 0.7;
+}
+
+.privacy-notice-content {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px solid currentColor;
+  border-radius: 0.35rem;
+  text-align: left;
+}
+
+.privacy-notice-content h2 {
+  margin-top: 0;
+}
