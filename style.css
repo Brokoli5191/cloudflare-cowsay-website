@@ -85,3 +85,19 @@ li {display: inline-block;}
 .privacy-notice-content h2 {
   margin-top: 0;
 }
+
+.privacy-notice summary {
+  display: inline-block;
+  cursor: pointer;
+  padding: 0.55rem 0.9rem;
+  list-style: none;
+  border: none;
+  background: none;
+}
+
+.privacy-notice-content {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: none;
+  text-align: left;
+}
