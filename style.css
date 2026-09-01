@@ -101,3 +101,7 @@ li {display: inline-block;}
   border: none;
   text-align: left;
 }
+
+.privacy-notice summary {
+  -webkit-tap-highlight-color: transparent;
+}
